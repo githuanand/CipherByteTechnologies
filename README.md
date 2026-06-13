@@ -1,4 +1,4 @@
-# CipherByte Technologies Virtual C Programming InternshipVirtual C Programming Intern
+# CipherByte Technologies Virtual C Programming Internship
 
 # Task List
 Screenshot 2024-09-18 201618.png : -Task 1
